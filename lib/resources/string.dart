@@ -1,1 +1,1 @@
-const appName = "Plant";
+const appName = "Book";
